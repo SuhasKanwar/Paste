@@ -31,7 +31,6 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/SuhasKanwar/Paste.git
-   cd Paste-App
    ```
 
 2. **Install dependencies**:
