@@ -1,5 +1,7 @@
 # 📝 Paste - Sticky Notes Web Application
 
+![Project_019_Notes_Saver](https://github.com/user-attachments/assets/01870643-62d4-42c3-8489-5e004bbd05f2)
+
 ### 🚀 Description
 **Paste** is a lightweight, responsive web application designed to help users effortlessly create, store, view, edit, and share sticky notes. With its intuitive interface and modern design, users can manage notes efficiently. Whether it's saving important info or sharing links, Paste simplifies note management.
 
