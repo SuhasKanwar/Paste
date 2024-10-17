@@ -70,12 +70,6 @@
 
 ---
 
-### 🤝 Contributions
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests with new features, bug fixes, or improvements.
-
----
-
 ## ✨ Contributors
 
 - **Suhas Kanwar** – [GitHub Profile](https://github.com/SuhasKanwar)
